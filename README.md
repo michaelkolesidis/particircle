@@ -1,3 +1,3 @@
-# particircle
+# Particircle
 
-https://openprocessing.org/sketch/1563838
+A circle of particles 
