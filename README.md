@@ -32,7 +32,7 @@
 
 ## Description
 
-<p>An amount of smaller circles is created around a common center, forming a larger circles. The smaller circles, are then animated according to the sine trigonometric function, with the milliseconds passed used as a parameter. Their color is changed according each circle's distance from the center. Their coordinated movement creates interesting patterns, resembling particles.</p>
+<p>An amount of smaller circles is created around a common center, forming a larger circles. The smaller circles, are then animated according to the sine trigonometric function, with the milliseconds passed used as a parameter. Their color and size is modified according to each circle's distance from the center. Their coordinated movement creates interesting patterns, resembling particles.</p>
 
 
 
