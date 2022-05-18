@@ -6,10 +6,7 @@ let cont = 0;
 let r;
 
 function setup() {
-  createCanvas(
-    windowWidth - (windowWidth * 0.4) / 100,
-    windowHeight - (windowHeight * 0.4) / 100
-  );
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
@@ -33,8 +30,5 @@ function draw() {
 }
 
 function windowResized() {
-  resizeCanvas(
-    windowWidth - (windowWidth * 0.4) / 100,
-    windowHeight - (windowHeight * 0.4) / 100
-  );
+  resizeCanvas(windowWidth, windowHeight);
 }
