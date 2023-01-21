@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2023 Michael Kolesidis
+ * GNU Affero General Public License v3.0
+ * https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ */
+
 let circle = 200;
 let rot;
 let col;
@@ -5,10 +12,12 @@ let freq = 0.000005;
 let cont = 0;
 let r;
 
+// Setup
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  let cnv = createCanvas(windowWidth, windowHeight);
 }
 
+// Draw
 function draw() {
   background(0);
   translate(
@@ -29,11 +38,12 @@ function draw() {
   }
 }
 
+// Resize
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
 
-// Fullscreen mode
+// Fullscreen
 window.addEventListener("dblclick", () => {
   const fullscreenElement =
     document.fullscreenElement || document.webkitFullscreenElement;

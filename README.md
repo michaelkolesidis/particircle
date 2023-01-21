@@ -1,18 +1,12 @@
-
-
-
-
 <div align="center">
   <img src="./assets/particircle.gif" width="300px"/>
-  <h1>Particircle</h1>
+  <h1>particircle</h1>
   
-  <h3>A circle of particles </h3>
-
-  <a href="https://particircle.netlify.app/"><h3>Try me!</h3></a>
-
   [![Netlify Status](https://api.netlify.com/api/v1/badges/abfd0b1d-71d8-443a-85e0-186634ab0a2b/deploy-status)](https://app.netlify.com/sites/particircle/deploys)
 
+  <h4>A circle of particles </h4>
 
+  <h3><a href="https://particircle.netlify.app/">Visit</a></h3>
 </div>
   
   
@@ -45,26 +39,7 @@
 
 ## License
 
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
+<a href="https://www.gnu.org/licenses/agpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/AGPLv3_Logo.svg" height="100px" /></a>
 
-Copyright (c) 2022 Michael Kolesidis<br>
-Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
-
-
-
-<br>
-<br>
-
-
-
-[//]: # (Free Software)
-<div align="center">
-  <br>
-  <br>
-
-  <a href="https://github.com/michaelkolesidis/made-with-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Made_with_Linux.png/240px-Made_with_Linux.png"></a>
-</div>
-<br>                                                      
-<div align="center">
-  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 90px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
-</div>
+Copyright (c) 2023 Michael Kolesidis<br>
+Licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
