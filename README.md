@@ -9,8 +9,6 @@
   <h3><a href="https://particircle.netlify.app/">Visit</a></h3>
 </div>
   
-  
-
 ## Technologies Used
 
 <a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
@@ -22,20 +20,15 @@
 <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
 ## Description
 
-<p>An amount of smaller circles is created around a common center, forming a larger circles. The smaller circles, are then animated according to the sine trigonometric function, with the milliseconds passed used as a parameter. Their color and size is modified according to each circle's distance from the center. Their coordinated movement creates interesting patterns, resembling particles.</p>
+An amount of smaller circles is created around a common center, forming a larger circles. The smaller circles, are then animated according to the sine trigonometric function, with the milliseconds passed used as a parameter. Their color and size is modified according to each circle's distance from the center. Their coordinated movement creates interesting patterns, resembling particles.
 
-<p>Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.</p>
-
+Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.
 
 ## Screenshots
 
 <img src="./assets/screenshot-01.png">
-
-
 
 ## License
 
