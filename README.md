@@ -1,12 +1,7 @@
 <div align="center">
   <img src="./assets/particircle.gif" width="300px"/>
   <h1>particircle</h1>
-  
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/abfd0b1d-71d8-443a-85e0-186634ab0a2b/deploy-status)](https://app.netlify.com/sites/particircle/deploys)
-
   <h4>A circle of particles </h4>
-
-  <h3><a href="https://particircle.netlify.app/">Visit</a></h3>
 </div>
   
 ## Technologies Used
